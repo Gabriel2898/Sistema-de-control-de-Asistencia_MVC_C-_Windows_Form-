@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Proyectos en Csharp\ORUSCURSO\ORUSCURSO.csproj" />
+  <event action="Analyze" type="Success" name="ElecccionServidor.resx" path="E:\Proyectos en Csharp\ORUSCURSO\Presentacion\AsistenteInstalacion\ElecccionServidor.resx" />
+  <event action="Analyze" type="Success" name="InstalacionBd.resx" path="E:\Proyectos en Csharp\ORUSCURSO\Presentacion\AsistenteInstalacion\InstalacionBd.resx" />
+  <event action="Analyze" type="Success" name="UsuarioPrincipal.resx" path="E:\Proyectos en Csharp\ORUSCURSO\Presentacion\AsistenteInstalacion\UsuarioPrincipal.resx" />
+  <event action="Analyze" type="Success" name="CtlUsuarios.resx" path="E:\Proyectos en Csharp\ORUSCURSO\Presentacion\CtlUsuarios.resx" />
+  <event action="Analyze" type="Success" name="Login.resx" path="E:\Proyectos en Csharp\ORUSCURSO\Presentacion\Login.resx" />
+  <event action="Analyze" type="Success" name="MenuPrincipal.resx" path="E:\Proyectos en Csharp\ORUSCURSO\Presentacion\MenuPrincipal.resx" />
+  <event action="Analyze" type="Success" name="Personal.resx" path="E:\Proyectos en Csharp\ORUSCURSO\Presentacion\Personal.resx" />
+  <event action="Analyze" type="Success" name="TomarAsistencias.resx" path="E:\Proyectos en Csharp\ORUSCURSO\Presentacion\TomarAsistencias.resx" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="E:\Proyectos en Csharp\ORUSCURSO\Properties\Resources.resx" />
+  <event action="Analyze" type="Success" name="ORUSCURSO" path="E:\Proyectos en Csharp\ORUSCURSO\ORUSCURSO.csproj" />
+  <event action="Analyze" type="Success" name="ORUSCURSO" path="E:\Proyectos en Csharp\ORUSCURSO\ORUSCURSO.sln" />
+  <event action="Backup" type="Success" name="ORUSCURSO" path="E:\Proyectos en Csharp\ORUSCURSO\ORUSCURSO.csproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="E:\Proyectos en Csharp\ORUSCURSO\ORUSCURSO.csproj" />
+  <event action="Upgrade" type="Success" name="ORUSCURSO" path="E:\Proyectos en Csharp\ORUSCURSO\ORUSCURSO.csproj" />
+  <event action="Upgrade" type="Success" name="ORUSCURSO" path="E:\Proyectos en Csharp\ORUSCURSO\ORUSCURSO.sln" />
+</log>
